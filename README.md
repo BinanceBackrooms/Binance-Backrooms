@@ -2,7 +2,7 @@
 
 # BINANCE BACKROOMS
 
-<img src="https://res.cloudinary.com/dlmfjcgaw/image/upload/v1759695422/Binance-Icon-Logo.wine_z4wdsx.png" alt="Binance Backrooms Logo" width="200"/>
+<img src="https://res.cloudinary.com/dlmfjcgaw/image/upload/v1759678853/att.K-P5HHlRO_PZYiMnM0WYyQTjMxmLpWGceYZOMjRCh_A_w04rxo.jpg" alt="Binance Backrooms Logo" width="200"/>
 
 ### A liminal space for traders who have seen too much
 
